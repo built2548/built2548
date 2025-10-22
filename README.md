@@ -49,22 +49,33 @@ Here is a selection of projects I've worked on.
 ### 3. Hitzory - Music History Website - Group Project
 * A website showcasing impactful music and artists with a historical timeline.
 * Designed the UI in Figma and implemented the site using WordPress and custom CSS.
-
-
 * **[➡️ Visit Hitzory Website Here](https://dev-hitzory.pantheonsite.io/)**
 
-### 4. Car Rental App - Database Design - Group Project
-* A group project to design the database schema for a car rental system.
-* Co-designed the Entity-Relationship (ER) model and implemented the database in MySQL and phpMyAdmin.
-* (The image below shows the ER Model we designed.)
-
-<img src="https://media.discordapp.net/attachments/943073265314828338/1430549647495008316/2568-10-22_20.29.35.png?ex=68fa2eae&is=68f8dd2e&hm=efdb73801d3c15799258ac529c46b624e14410e0b6257ae6557f1999276d8f69&=&format=webp&quality=lossless&width=1571&height=1017" width="600" alt="Car Rental ER Model Screenshot"/>
-
-### 5. 3D Modeling Self-Study - Group Project (Blender)
+### 4. 3D Modeling Self-Study - Group Project (Blender)
 * Independently exploring 3D asset creation for games.
 * (Below is a low-poly vehicle modeled in Blender based on tutorials.)
 
 <img src="https://media.discordapp.net/attachments/943073265314828338/1430548908467294238/Screenshot_2025-10-22_201058.png?ex=68fa2dfe&is=68f8dc7e&hm=801b3305d242666a2f4d1e1901cf665f9c75de5de60d76550a2e3e7798a67804&=&format=webp&quality=lossless&width=1571&height=884" width="400" alt="Blender 3D Model Screenshot"/>
+
+### 5. Car Rental App - Database Design (Group Project)
+* A group project to design the database schema for a car rental system.
+* Co-designed the Entity-Relationship (ER) model and implemented the database in **MySQL** via **phpMyAdmin**.
+* (The images below show the ER Model we designed and the resulting database interface.)
+
+<table>
+  <tr>
+    <td align="center">
+      <strong>ER Model (Design)</strong><br><br>
+      <img src="https://cdn.discordapp.com/attachments/943073265314828338/1430558779820474598/2568-10-22_21.08.31.png?ex=68fa372f&is=68f8e5af&hm=778908230795a2fb63d875cba41a9791c12615ee6f6cd31d4c25950f93ffde57&" width="400" alt="Car Rental ER Model Screenshot"/>
+    </td>
+    <td align="center">
+      <strong>phpMyAdmin (Implementation)</strong><br><br>
+      <img src="https://media.discordapp.net/attachments/943073265314828338/1430549647495008316/2568-10-22_20.29.35.png?ex=68fa2eae&is=68f8dd2e&hm=efdb73801d3c15799258ac529c46b624e14410e0b6257ae6557f1999276d8f69&=&format=webp&quality=lossless&width=1571&height=884" width="400" alt="Car Rental phpMyAdmin Screenshot"/>
+    </td>
+  </tr>
+</table>
+
+
 
 ---
 
