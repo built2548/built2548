@@ -35,7 +35,7 @@ Here are some of the technologies I've been working with:
 
 Here is a selection of projects I've worked on.
 
-### 1. Movie Booking App - Group Project (iOS)
+### 1. Movie Booking Mobile App - Group Project (iOS)
 * An iOS group project for booking movie tickets.
 * Features user data storage and movie info using Firebase.
 * Designed the UI/UX in Figma and coded the app in Swift.
