@@ -18,7 +18,7 @@ Here are some of the technologies I've been working with:
   <img src="https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=unity&logoColor=black" alt="Unity"/>
   <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" alt="Blender"/>
   <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress"/>
-   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
@@ -40,6 +40,7 @@ Here is a selection of projects I've worked on.
 * Features user data storage and movie info using Firebase.
 * Designed the UI/UX in Figma and coded the app in Swift.
 * **[➡️ View Code Repository](https://github.com/built2548/Project_Finale)**
+<img src="https://media.discordapp.net/attachments/943073265314828338/1430561948168360127/IMG_4621.png?ex=68fa3a22&is=68f8e8a2&hm=72b629e69a8351d5539e80a01e7bb1da797641c787f45ab6f38eaed6901b4bc4&=&format=webp&quality=lossless&width=583&height=1261" width="400" alt="Movie Booking App Screenshot"/>
 
 ### 2. Top-Down 2D Racing Game (In Progress)
 * A personal self-learning project to build a 2D racing game.
