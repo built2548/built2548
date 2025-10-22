@@ -1,6 +1,6 @@
 # Hi there, I'm Chisanucha Uthai! 👋
 
-I'm a third-year **Computer for Communication** student at **College of Social Communication Innovation Srinakharinwirot universityt**.
+I'm a third-year **Computer for Communication** student at **College of Social Communication Innovation Srinakharinwirot university**.
 
 I'm passionate about building digital experiences and solving problems. I have experience in **Mobile App Development (Swift)** and **Web Development (WordPress)**, and I am currently teaching myself **Game Development (Unity)** and **3D Modeling (Blender)**.
 
