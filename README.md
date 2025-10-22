@@ -22,7 +22,8 @@ Here are some of the technologies I've been working with:
   <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress"/>
   
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/> 
+  <img src="https://img.shields.io/badge/phpMyAdmin-6C78AF?style=for-the-badge&logo=phpmyadmin&logoColor=white" alt="phpMyAdmin"/>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
   <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" alt="Blender"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
@@ -35,7 +36,7 @@ Here are some of the technologies I've been working with:
 
 Here is a selection of projects I've worked on.
 
-### 1. Movie Booking App (iOS)
+### 1. Movie Booking App - Group Project (iOS)
 * An iOS group project for booking movie tickets.
 * Features user data storage and movie info using Firebase.
 * Designed the UI/UX in Figma and coded the app in Swift.
@@ -46,29 +47,29 @@ Here is a selection of projects I've worked on.
 * Currently implementing core mechanics, player controls, and 2D physics using C# in Unity.
 * **[➡️ View Code Repository (In Progress)](https://github.com/built2548/Unity-TopDown2D-Racing-Game)**
 
-### 3. Hitzory - Music History Website
+### 3. Hitzory - Music History Website - Group Project
 * A website showcasing impactful music and artists with a historical timeline.
 * Designed the UI in Figma and implemented the site using WordPress and custom CSS.
-* (This was a visual/CMS project, screenshots below show my design work.)
 
-<img src="[ใส่ URL ของรูป Hitzory ที่คุณอัปโหลดไว้]" width="600" alt="Hitzory Website Screenshot"/>
 
-### 4. Car Rental App - Database Design
+* **[➡️ Visit Hitzory Website Here](https://dev-hitzory.pantheonsite.io/)**
+
+### 4. Car Rental App - Database Design - Group Project
 * A group project to design the database schema for a car rental system.
-* Co-designed the Entity-Relationship (ER) model and implemented the database in SQLite.
+* Co-designed the Entity-Relationship (ER) model and implemented the database in MySQL and phpMyAdmin.
 * (The image below shows the ER Model we designed.)
 
-<img src="[ใส่ URL ของรูป ER Model ที่คุณอัปโหลดไว้]" width="600" alt="Car Rental ER Model Screenshot"/>
+<img src="https://media.discordapp.net/attachments/943073265314828338/1430549647495008316/2568-10-22_20.29.35.png?ex=68fa2eae&is=68f8dd2e&hm=efdb73801d3c15799258ac529c46b624e14410e0b6257ae6557f1999276d8f69&=&format=webp&quality=lossless&width=1571&height=1017" width="600" alt="Car Rental ER Model Screenshot"/>
 
-### 5. 3D Modeling Self-Study (Blender)
+### 5. 3D Modeling Self-Study - Group Project (Blender)
 * Independently exploring 3D asset creation for games.
 * (Below is a low-poly vehicle modeled in Blender based on tutorials.)
 
-<img src="[ใส่ URL ของรูปโมเดล Blender ที่คุณอัปโหลดไว้]" width="400" alt="Blender 3D Model Screenshot"/>
+<img src="https://media.discordapp.net/attachments/943073265314828338/1430548908467294238/Screenshot_2025-10-22_201058.png?ex=68fa2dfe&is=68f8dc7e&hm=801b3305d242666a2f4d1e1901cf665f9c75de5de60d76550a2e3e7798a67804&=&format=webp&quality=lossless&width=1571&height=884" width="400" alt="Blender 3D Model Screenshot"/>
 
 ---
 
 ## 📫 How to Reach Me
 
 * **Email:** `chisanuchauthai@gmail.com`
-* **LinkedIn:** `[ใส่ Link LinkedIn ของคุณ (เมื่อพร้อม)]`
+
