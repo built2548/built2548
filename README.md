@@ -27,42 +27,44 @@ I am actively seeking an internship opportunity where I can apply my skills, col
 
 ### 1. Puri’s Purifle (Unity Final Project)
 * **Concept:** A side-scrolling shooter focused on environmental awareness and cause-and-effect gameplay.
-* **Role:** Developer (Gameplay logic, AI, and Environment systems).
 * **Tech:** Unity, C#, Figma.
 * **[📺 Watch Gameplay Demo](https://www.youtube.com/watch?v=uY6-1ueC09M)**
 
-[![Puri's Purifle Demo](https://img.youtube.com/vi/uY6-1ueC09M/0.jpg)](https://www.youtube.com/watch?v=uY6-1ueC09M)
+<a href="https://www.youtube.com/watch?v=uY6-1ueC09M">
+  <img src="https://img.youtube.com/vi/uY6-1ueC09M/0.jpg" width="500" alt="Puri's Purifle Demo">
+</a>
 
 ### 2. Movie Booking Mobile App (iOS)
 * An iOS application for movie ticket reservations with a real-time backend.
 * **Tech:** Swift, Xcode, Firebase.
 * **[➡️ View Code Repository](https://github.com/built2548/Project_Finale)**
-*![IMG_4621](https://github.com/user-attachments/assets/ccc2ed68-fd0c-4181-aa7a-a609272527dc)
+* <br><img src="https://github.com/user-attachments/assets/ccc2ed68-fd0c-4181-aa7a-a609272527dc" width="250" alt="Movie App Screenshot">
 
 ### 3. Hitzory - Music History Website
 * A creative historical timeline of music and artists.
 * **Tech:** WordPress, Custom CSS, Figma.
 * **[➡️ Visit Hitzory Website](https://dev-hitzory.pantheonsite.io/)**
-*<img width="2560" height="1440" alt="Desktop Screenshot 2026 01 16 - 20 38 00 53" src="https://github.com/user-attachments/assets/6f9e1d09-e9c6-43ce-91bf-0beba0f70b22" />
+* <br><img src="https://github.com/user-attachments/assets/c8ac0cc8-ac24-407a-8260-c03cb4a55abb" width="600" alt="Hitzory Screenshot">
+
 
 ### 4. Database Design - Car Rental System
 * Designed and implemented a relational database schema for a rental service.
 * **Tech:** MySQL, phpMyAdmin, ER Modeling.
-* ![Screenshot_2025-10-22_201058](https://github.com/user-attachments/assets/0beacd23-48f1-4f52-9762-fca17547a2a6)
-*![2569-01-16_19 53 15](https://github.com/user-attachments/assets/e0f47aa3-815a-4690-a3dd-b1483571a4ee)
+* <br><img src="https://github.com/user-attachments/assets/62005854-37db-40a9-94e2-2d63285cd01e" width="450" alt="ER Model">
+<img src="https://github.com/user-attachments/assets/23ad09fc-1578-4497-be51-e9b4ce89660d" width="450" alt="Database UI">
 
 ### 5. Top-Down 2D Racing Game (Personal Project)
-* **Status:** In Progress (Self-learning project).
+* **Status:** In Progress.
 * **Concept:** Implementing core mechanics, player controls, and 2D physics.
 * **Tech:** Unity, C#.
 * **[➡️ View Code Repository](https://github.com/built2548/Unity-TopDown2D-Racing-Game)**
-*![2569-01-16_19 53 15](https://github.com/user-attachments/assets/2bb043ac-4516-466f-8eb4-c9316ccbab5f)
+* <br><img src="https://github.com/user-attachments/assets/2bb043ac-4516-466f-8eb4-c9316ccbab5f" width="500" alt="Racing Game Screenshot">
 
 
 ### 6. 3D Modeling Self-Study (Personal Project)
 * **Focus:** Creating 3D assets for games, specifically low-poly models.
 * **Tech:** Blender.
-* ![Screenshot_2025-10-22_201058](https://github.com/user-attachments/assets/b9ec638d-69be-42f5-9ee9-10a14b6bc804)
+* <br><img src="https://github.com/user-attachments/assets/b9ec638d-69be-42f5-9ee9-10a14b6bc804" width="500" alt="Blender Model">
 
 ---
 
