@@ -40,7 +40,7 @@ Here is a selection of projects I've worked on.
 * Features user data storage and movie info using Firebase.
 * Designed the UI/UX in Figma and coded the app in Swift.
 * **[➡️ View Code Repository](https://github.com/built2548/Project_Finale)**
-<img src="C:\Users\chisa\Downloads\IMG_4621.webp" width="400" alt="Movie Booking App Screenshot"/>
+<img src="C:\Users\chisa\Downloads\IMG_4621.webp"/>
 
 ### 2. Top-Down 2D Racing Game (In Progress)
 * A personal self-learning project to build a 2D racing game.
